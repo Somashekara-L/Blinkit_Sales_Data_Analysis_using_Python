@@ -89,3 +89,19 @@ The analysis provides actionable insights that can help:
 
 ## 📁 Project Structure
 Raw data File :[blinkit_data.csv](https://github.com/user-attachments/files/25255093/blinkit_data.csv)
+
+---
+
+## 📌 Future Improvements
+
+- Build an interactive dashboard using Power BI or Tableau
+- Implement predictive sales forecasting models
+- Deploy the project as a web-based analytics dashboard
+
+---
+
+## 👤 Author
+
+**Somashekara L**  
+Aspiring Data Analyst | Python | SQL | Data Visualization  
+
