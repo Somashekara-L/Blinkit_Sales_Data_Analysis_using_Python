@@ -89,6 +89,12 @@ The analysis provides actionable insights that can help:
 
 ## 📁 Project Structure
 Raw data File :[blinkit_data.csv](https://github.com/user-attachments/files/25255093/blinkit_data.csv)
+Charts of the Project :<img width="612" height="459" alt="Pie Chart 2" src="https://github.com/user-attachments/assets/8d06168a-19e5-4663-a257-d557da08da96" />
+<img width="699" height="423" alt="Barplot chart" src="https://github.com/user-attachments/assets/3bd576f3-87ea-42e1-9055-515940880ceb" />
+<img width="917" height="697" alt="Bar chart 2" src="https://github.com/user-attachments/assets/e1c67b2d-e1da-4ae3-9c86-14ec382daeaf" />
+<img width="766" height="511" alt="pie chart" src="https://github.com/user-attachments/assets/154e8b80-c5eb-4a82-b408-e4acf3fc1815" />
+<img width="776" height="576" alt="Bar chart" src="https://github.com/user-attachments/assets/243de236-635e-4235-a2c7-7317e7bd8a17" />
+<img width="842" height="641" alt="Line Chart" src="https://github.com/user-attachments/assets/95df89e4-3ed3-462b-9bc5-9182a642389e" />
 
 ---
 
